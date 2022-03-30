@@ -8,7 +8,7 @@ $black: #000000;
 $darken: #232931;
 
 $primary: #ffbd39;
-$secondary: #a0f669;
+$secondary: #a0f669; 
 
 
 
@@ -556,6 +556,11 @@ h1, h2, h3, h4, h5,
 					font-size: 12px;
 					letter-spacing: 3px;
 				}
+
+				// @media screen and (min-width: 420px) {
+				// 	display: none;
+				// }
+
 			}
 		}
 		.owl-nav {
